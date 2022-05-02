@@ -1,0 +1,2 @@
+assistant-qt5
+google-chrome ~/assig/grau-g/Gdocs/html/index.html
